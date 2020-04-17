@@ -7,3 +7,6 @@ struct Node
 	struct Node *rightchild;
 }
 *root=NULL;
+void insert (int key)
+{
+	
